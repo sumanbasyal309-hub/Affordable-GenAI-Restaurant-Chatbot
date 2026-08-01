@@ -1,0 +1,22 @@
+Methodology and Delivery Approach
+In this project a hybrid methodology will be used that involves Design Science Research (DSR), Agile/Scrum development and a mixed-methods evaluation approach. This combination is chosen since a useful technology artefact is to be developed and the effectiveness of the artefact in a real business is to be assessed. No one development paradigm would be sufficient to meet the technical, operational and user requirements for the implementation of a Generative AI chatbot for Small and Medium Sized Restaurants (SMRs).
+The overall research structure for designing and evaluating the chatbot solution is adopted from Design Science Research (DSR). Hevner et al. (2004) state that DSR aims at the development of new artefacts that address a problem in an organisation, producing knowledge through the process of evaluation. This solution is consistent with the overall project goal of creating a GenAI chatbot to solve customer service inefficiencies in SMR settings. Identification of problems, solution design, prototype development, demonstration and evaluation will be directed by the DSR process.
+
+The iterative prototype development will be managed using Agile / Scrum methodology, under the DSR framework. Agile is suitable because the requirements for the chatbot might change based on test results, user feedback, and technical constraints. Scrum principles outlined by Schwaber and Sutherland (2020) are beneficial to incremental delivery for short development cycles, continuous feedback, and regular review. The project will be broken down into a series of sprints, with the development and testing of features like enquiry handling, conversation flows, escalation rules, usability enhancements, and more will occur incrementally.
+
+The delivery process will consist of four major stages:
+
+Phase 1: Problem analysis and requirement definition.
+The first phase is problem analysis and requirement definition. The project will take the issues identified in Assessment 1 and perform an analysis of the problems that exist in the restaurant customer service, and then determine the requirements of the restaurant's chatbot. Reservations, menus enquiries, FAQs, orders status etc. will be prioritised.
+
+Phase 2: Design and Prototype Development
+The architecture of the chatbot, the design of the conversations, the knowledge sources, and the human escalation mechanisms will be constructed. Prototype functionality will be developed and enhanced by iterative Scrum sprints.
+
+Phase 3: Testing and Evaluation
+A mixed methods evaluation approach will be followed, with technical and user experience components measured. These quantitative data will comprise of chatbot accuracy testing, response time measurements and System Usability Scale (SUS) scores. User comments and observations will be gathered for qualitative feedback to help identify issues and opportunities for usability improvements. This approach is based on the principle of Creswell and Creswell (2018) that mixed methods offer a fuller picture of the situation by combining measurable outcomes with user perspectives.
+
+Phase 4: Review and Recommendations
+ The evaluation results will be compared with objectives of the project such as performance targets, usability requirements, and responsible AI considerations. Future recommendations for SME adoption, such as privacy controls, governance requirements, and possible improvements to the system, will be formulated.
+ 
+
+  
