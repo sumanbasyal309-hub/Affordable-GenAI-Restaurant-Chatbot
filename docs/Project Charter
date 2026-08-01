@@ -1,0 +1,33 @@
+Appendix A-Project Charter
+Project Title
+Affordable Generative AI Chatbot for Small and Medium-Sized Restaurants in Australia
+Problem Statement
+Because of limited staff and growing workload, SME restaurants are facing difficulties in ensuring that their customers' enquiries for reservations, menu questions, and order updates are handled. During peak times, a delayed response may lower customer satisfaction and cause inefficiencies in your operation. There is a need for more affordable AI solutions to ensure timely and uniform customer service.
+Value Proposition
+This project is a prototype of a low-cost Generative AI chatbot for enhancing the efficiency of restaurant customer service. The goal of the chatbot is to streamline typical inquiries, alleviate the load on employees, deliver quicker responses, and facilitate ethical and responsible use of AI while ensuring privacy.
+
+Scope
+In Scope	Out of Scope
+GenAI chatbot prototype	Full production deployment
+FAQs, menu queries, reservations, order updates	Payment/POS integration
+Accuracy, usability, and performance testing	Mobile app development
+Responsible AI and privacy evaluation	Enterprise restaurant solutions
+
+Stakeholders
+Stakeholder	Role
+Academic Supervisor	Sponsor and reviewer
+Restaurant Owners & Staff	Requirements and feedback
+Customers	End-user testing
+Student Developer	Design and development
+
+Metric	Target
+Chatbot accuracy	≥85% on test queries
+Response time	≤3 seconds
+Usability	SUS score ≥75
+Function success	≥80% core task completion
+
+Top Risks & Mitigation
+Risk	Mitigation
+Incorrect AI responses	Testing and human fallback
+Privacy risks	APP and NIST AI RMF practices
+Low user adoption	Simple design and user feedback
